@@ -9,4 +9,3 @@ python-bidi==0.4.2
 scipy==1.6.0
 tensorflow==2.4.1
 streamlit
-speech_recognition
