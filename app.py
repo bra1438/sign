@@ -1,3 +1,9 @@
+import streamlit as st
+import speech_recognition as sr
+from gtts import gTTS
+from playsound import playsound
+
+
 def main():
     st.title("Arabic Sign Language Converter")
     st.write("Speak in Arabic and see the corresponding sign language animation.")
